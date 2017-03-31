@@ -1,7 +1,7 @@
 
     #include <stdio.h>
     #include <stdlib.h>
-
+/*
     int main()
     {
        int num;
@@ -106,6 +106,45 @@
              return 0;
 
 
+    }*/
+
+/**
+    int pedirNumero();
+
+    int main(){
+    int numero;
+    printf ("ingrese un numero");
+    scanf("%d",&numero);
+    return numero;
     }
+
+    */
+
+    /*HACER UNA FUNCIÓN QUE CALCULE EL PRODUCTO DE DOS NUMEROS*/
+
+    int determinarProducto(int n1, int n2);
+
+    int main()
+        {
+            int primerNumero;
+            int segundoNumero;
+            int mult;
+
+            printf("ingrese el primer numero");
+            scanf("%d",&primerNumero);
+            printf("ingrese el segundo numero");
+            scanf("%d",&segundoNumero);
+
+            mult=primerNumero*segundoNumero;
+            printf("el producto es %d",mult);
+        }
+    int determinarProducto (int n1,int n2)
+        {
+            int producto;
+            producto=n1*n2;
+            return producto;
+        }
+
+
 
 
