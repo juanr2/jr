@@ -130,9 +130,9 @@
             int segundoNumero;
             int mult;
 
-            printf("ingrese el primer numero");
+            printf("ingrese el primer numero: ");
             scanf("%d",&primerNumero);
-            printf("ingrese el segundo numero");
+            printf("ingrese el segundo numero: ");
             scanf("%d",&segundoNumero);
 
             mult=primerNumero*segundoNumero;
