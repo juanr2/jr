@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1511737079 source:c:\users\i\desktop\parcial_arraylistjuanroa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"parser.h"
+
+1511618916 c:\users\i\desktop\parcial_arraylistjuanroa\arraylist.h
+
+1511472852 c:\users\i\desktop\parcial_arraylistjuanroa\parser.h
+
+1511713491 source:c:\users\i\desktop\parcial_arraylistjuanroa\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
+1511568104 c:\users\i\desktop\parcial_arraylistjuanroa\client.h
+
+1511737671 source:c:\users\i\desktop\parcial_arraylistjuanroa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funcionesutn.h"
+	"parser.h"
+	"client.h"
+	<string.h>
+
+1511713318 source:c:\users\i\desktop\parcial_arraylistjuanroa\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
+1511737635 source:c:\users\i\desktop\parcial_arraylistjuanroa\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"client.h"
+	"string.h"
+
+1511737684 c:\users\i\desktop\parcial_arraylistjuanroa\funcionesutn.h
+
