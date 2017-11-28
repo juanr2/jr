@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1506993598 source:d:\pp_roa_juan\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1506993084 d:\pp_roa_juan\lib.h
+
+1506993978 source:d:\pp_roa_juan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+

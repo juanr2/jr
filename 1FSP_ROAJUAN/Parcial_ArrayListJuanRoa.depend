@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1511737079 source:c:\users\i\desktop\parcial_arraylistjuanroa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"parser.h"
+
+1511618916 c:\users\i\desktop\parcial_arraylistjuanroa\arraylist.h
+
+1511472852 c:\users\i\desktop\parcial_arraylistjuanroa\parser.h
+
+1511713491 source:c:\users\i\desktop\parcial_arraylistjuanroa\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
+1511568104 c:\users\i\desktop\parcial_arraylistjuanroa\client.h
+
+1511737671 source:c:\users\i\desktop\parcial_arraylistjuanroa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funcionesutn.h"
+	"parser.h"
+	"client.h"
+	<string.h>
+
+1511713318 source:c:\users\i\desktop\parcial_arraylistjuanroa\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
+1511737635 source:c:\users\i\desktop\parcial_arraylistjuanroa\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"client.h"
+	"string.h"
+
+1511737684 c:\users\i\desktop\parcial_arraylistjuanroa\funcionesutn.h
+
+1511737079 source:c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"parser.h"
+
+1511618916 c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\arraylist.h
+
+1511472852 c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\parser.h
+
+1511713491 source:c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
+1511568104 c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\client.h
+
+1511810610 source:c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"client.h"
+	<string.h>
+
+1511812037 source:c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funcionesutn.h"
+	"parser.h"
+	"client.h"
+	<string.h>
+
+1511811336 c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\funcionesutn.h
+
+1511713318 source:c:\users\i\desktop\utntodo\parcial_arraylistjuanroa\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
+1511737080 source:d:\1fsp_roajuan\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"parser.h"
+
+1511618918 d:\1fsp_roajuan\arraylist.h
+
+1511472854 d:\1fsp_roajuan\parser.h
+
+1511831521 source:d:\1fsp_roajuan\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
+1511821614 d:\1fsp_roajuan\client.h
+
+1511832064 source:d:\1fsp_roajuan\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"client.h"
+	<string.h>
+
+1511832145 source:d:\1fsp_roajuan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funcionesutn.h"
+	"parser.h"
+	"client.h"
+	<string.h>
+
+1511828090 d:\1fsp_roajuan\funcionesutn.h
+
+1511823295 source:d:\1fsp_roajuan\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"client.h"
+
