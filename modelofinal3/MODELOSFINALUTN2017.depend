@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1518050307 source:c:\users\i\desktop\modelosfinalutn2017\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"parser.h"
+
+1518050307 c:\users\i\desktop\modelosfinalutn2017\arraylist.h
+
+1518180243 c:\users\i\desktop\modelosfinalutn2017\parser.h
+
+1518050306 source:c:\users\i\desktop\modelosfinalutn2017\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+
+1519225654 source:c:\users\i\desktop\modelosfinalutn2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesutn.h"
+	"arrayList.h"
+	"parser.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1518050308 c:\users\i\desktop\modelosfinalutn2017\funcionesutn.h
+
+1519225728 source:c:\users\i\desktop\modelosfinalutn2017\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1518089129 c:\users\i\desktop\modelosfinalutn2017\client.h
+
+1518275549 source:c:\users\i\desktop\modelosfinalutn2017\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1518182437 c:\users\i\desktop\modelosfinalutn2017\ventas.h
+
+1519226014 c:\users\i\desktop\modelosfinalutn2017\productos.h
+
+1519226040 source:c:\users\i\desktop\modelosfinalutn2017\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1518182463 source:c:\users\i\desktop\modelosfinalutn2017\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1518050307 source:c:\users\i\desktop\modelosfinalutn2017 - copia\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"parser.h"
+
+1518050307 c:\users\i\desktop\modelosfinalutn2017 - copia\arraylist.h
+
+1519245263 c:\users\i\desktop\modelosfinalutn2017 - copia\parser.h
+
+1518050306 source:c:\users\i\desktop\modelosfinalutn2017 - copia\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+
+1519245263 source:c:\users\i\desktop\modelosfinalutn2017 - copia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1519250145 c:\users\i\desktop\modelosfinalutn2017 - copia\client.h
+
+1518182437 c:\users\i\desktop\modelosfinalutn2017 - copia\ventas.h
+
+1519226014 c:\users\i\desktop\modelosfinalutn2017 - copia\productos.h
+
+1519226040 source:c:\users\i\desktop\modelosfinalutn2017 - copia\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1518182463 source:c:\users\i\desktop\modelosfinalutn2017 - copia\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1519250145 source:c:\users\i\desktop\modelosfinalutn2017 - copia\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+	"parser.h"
+
+1519255311 source:c:\users\i\desktop\modelosfinalutn2017 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesutn.h"
+	"arrayList.h"
+	"parser.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1518050308 c:\users\i\desktop\modelosfinalutn2017 - copia\funcionesutn.h
+
+1519257457 source:c:\users\pablo\downloads\ivan\ventas_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesutn.h"
+	"arrayList.h"
+	"parser.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1519266474 c:\users\pablo\downloads\ivan\ventas_tp\funcionesutn.h
+
+1519266474 c:\users\pablo\downloads\ivan\ventas_tp\arraylist.h
+
+1519257480 c:\users\pablo\downloads\ivan\ventas_tp\parser.h
+
+1519266474 c:\users\pablo\downloads\ivan\ventas_tp\client.h
+
+1519266474 c:\users\pablo\downloads\ivan\ventas_tp\ventas.h
+
+1519266474 c:\users\pablo\downloads\ivan\ventas_tp\productos.h
+
+1519264566 source:c:\users\i\desktop\correccion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesutn.h"
+	"arrayList.h"
+	"parser.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
+1519261812 c:\users\i\desktop\correccion\funcionesutn.h
+
+1519266474 c:\users\i\desktop\correccion\arraylist.h
+
+1519261927 c:\users\i\desktop\correccion\parser.h
+
+1519266474 c:\users\i\desktop\correccion\client.h
+
+1519266474 c:\users\i\desktop\correccion\ventas.h
+
+1519266474 c:\users\i\desktop\correccion\productos.h
+
+1519262459 source:c:\users\i\desktop\correccion\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"client.h"
+	"ventas.h"
+	"productos.h"
+
